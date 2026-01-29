@@ -56,7 +56,7 @@
 
 ---
 
-## 📊 GitHub Stats (ALL COMMITS)
+## 📊 GitHub Stats
 
 <!-- 메인 스탯 -->
 ![](https://github-readme-stats.vercel.app/api?username=flyingsquirrel0419&include_all_commits=true&count_private=true&theme=github_dark&hide_border=true&cache_seconds=1&v=20260130)
