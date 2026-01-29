@@ -1,8 +1,5 @@
 # 💫 About Me:
-안녕하세요 ~<br>
-날다람쥐입니다.<br>
-저는 바이브 코딩으로 많은 것을 배우고 있어요!<br>
-디스코드에서 아이오딘이라는 음악 봇을 운영 중이이요~<br>
+안녕하세요 ~<br>날다람쥐입니다.<br>저는 바이브 코딩으로 많은 것을 배우고 있어요!<br>디스코드에서 아이오딘이라는 음악 봇을 운영 중이이요
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/flyingsquirrel0419) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:flying_squirrel__@teamwicked.me) 
