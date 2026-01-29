@@ -1,13 +1,13 @@
 # 💫 About Me
 
 안녕하세요! 👋  
-저는 **날다람쥐 🐿️**입니다.
+저는 **날다람쥐 🐿️ (FlyingSquirrel)** 입니다.
 
-- 🎧 **바이브 코딩**으로 이것저것 만들며 배우는 중
-- 🤖 **Discord 음악 봇 `아이오딘(Iodine)` 운영 중**
-- 💡 백엔드부터 프론트까지 이것저것 만져보는 걸 좋아해요
+- 🎧 바이브 코딩으로 이것저것 만들며 배우는 중
+- 🤖 Discord 음악 봇 **아이오딘(Iodine)** 운영 중
+- 💡 백엔드 · 프론트 · 인프라 가리지 않고 찍먹하는 타입
 
-> 코드도 음악도, 결국 바이브 ✨
+> 코드도 음악도 결국 바이브 ✨
 
 ---
 
@@ -15,11 +15,9 @@
 
 ### 🎵 Iodine (아이오딘)
 - Discord 음악 봇
-- 안정적인 스트리밍 & 다양한 음악 소스 지원
-- FFmpeg 기반 오디오 처리
-- Ts + Redis + Java 환경에서 운영 중
-
-> “서버에 음악 바이브를 더하다 🎶”
+- FFmpeg 기반 안정적인 오디오 스트리밍
+- TS 환경
+- 실사용 서버에서 운영 중
 
 ---
 
@@ -59,16 +57,22 @@
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Stats (ALL COMMITS)
 
-![](https://github-readme-stats.vercel.app/api?username=flyingsquirrel0419&theme=dark&hide_border=true&include_all_commits=true&count_private=true)
+<!-- 메인 스탯 -->
+![](https://github-readme-stats.vercel.app/api?username=flyingsquirrel0419&include_all_commits=true&count_private=true&theme=github_dark&hide_border=true)
 
-![](https://nirzak-streak-stats.vercel.app/?user=flyingsquirrel0419&theme=dark&hide_border=true)
+<!-- 연속 커밋 -->
+![](https://nirzak-streak-stats.vercel.app/?user=flyingsquirrel0419&theme=github-dark&hide_border=true)
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=flyingsquirrel0419&theme=dark&hide_border=true&layout=compact)
+<!-- 커밋 그래프 -->
+![](https://github-readme-activity-graph.vercel.app/graph?username=flyingsquirrel0419&theme=github-dark)
+
+<!-- 사용 언어 -->
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=flyingsquirrel0419&layout=compact&langs_count=6&theme=github_dark&hide_border=true)
 
 ---
 
 [![](https://visitcount.itsvg.in/api?id=flyingsquirrel0419&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly vibing with GPRM -->
+<!-- Full commit · Full vibe · Full squirrel 🐿️ -->
