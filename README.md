@@ -78,17 +78,20 @@ const developer = {
 
 ## 📊 GitHub Stats
 
-<div align="center">
-  <img height="200em" src="https://github-readme-stats.vercel.app/api?username=flyingsquirrel0419&include_all_commits=true&count_private=true&theme=github_dark&hide_border=true" />
-  <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=flyingsquirrel0419&layout=compact&theme=github_dark&hide_border=true" />
-  <br />
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=flyingsquirrel0419&theme=github-dark" />
-</div>
+<!-- 메인 스탯 -->
+![](https://github-readme-stats.vercel.app/api?username=flyingsquirrel0419&include_all_commits=true&count_private=true&theme=github_dark&hide_border=true&cache_seconds=1&v=20260130)
 
+<!-- 연속 커밋 -->
+![](https://nirzak-streak-stats.vercel.app/?user=flyingsquirrel0419&theme=github-dark&hide_border=true&cache_seconds=1&v=20260130)
+
+<!-- 활동 그래프 -->
+![](https://github-readme-activity-graph.vercel.app/graph?username=flyingsquirrel0419&theme=github-dark&cache_seconds=1&v=20260130)
+
+<!-- 사용 언어 -->
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=flyingsquirrel0419&layout=compact&langs_count=6&theme=github_dark&hide_border=true&cache_seconds=1&v=20260130)
 ---
 
 <div align="center">
   <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:3B82F6,100:6EE7B7&height=120&section=footer" />
 </div>
-```
 
