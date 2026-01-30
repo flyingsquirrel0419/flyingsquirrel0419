@@ -1,77 +1,94 @@
-# 💫 About Me
+<div align="center">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:6EE7B7,100:3B82F6&height=180&section=header&text=Hi%20there!%20I'm%20FlyingSquirrel%&fontSize=36&fontColor=fff&animation=twinkling&fontAlignY=32" />
 
-안녕하세요! 👋  
-저는 **날다람쥐 🐿️ (FlyingSquirrel)** 입니다.
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6EE7B7&center=true&vCenter=true&width=520&lines=%E2%9C%A8+Vibe+Coder;%F0%9F%8E%A7+Discord+Music+Bot+Developer;%F0%9F%92%BB+Fullstack+Explorer" alt="Typing SVG" />
+  </a>
 
-- 🎧 바이브 코딩으로 이것저것 만들며 배우는 중
-- 🤖 Discord 음악 봇 **아이오딘(Iodine)** 운영 중
-- 💡 백엔드 · 프론트 · 인프라 가리지 않고 해보는 타입
+  <br /><br />
 
+  <a href="https://github.com/flyingsquirrel0419">
+    <img src="https://img.shields.io/badge/GitHub-flyingsquirrel0419-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="mailto:flying_squirrel__@teamwicked.me">
+    <img src="https://img.shields.io/badge/Email-flying_squirrel__@teamwicked.me-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://instagram.com/flyingsquirrel0419">
+    <img src="https://img.shields.io/badge/Instagram-flyingsquirrel0419-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
+</div>
 
 ---
 
-## 🤖  Project
+## 🐿️ About Me
+
+```ts
+const developer = {
+  name: "날다람쥐 (FlyingSquirrel)",
+  location: "South Korea 🇰🇷",
+  focus: "Vibe Coding & Real-world Projects",
+  project: "Discord Music Bot - Iodine 🎵"
+};
+````
+
+---
+
+## 🤖 Project
 
 ### 🎵 Iodine (아이오딘)
-- Discord 음악 봇
-- OPUS 기반 안정적인 오디오 스트리밍
-- TS 환경
-- 실사용 서버에서 운영 중
+
+* Discord 음악 봇
+* 실서버 운영 중
 
 ---
 
-## 🌐 Socials
+## 🛠️ Tech Stack
 
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/flyingsquirrel0419)
-[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:flying_squirrel__@teamwicked.me)
+<div align="center">
 
----
+### Languages
 
-## 💻 Tech Stack
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge\&logo=typescript\&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge\&logo=javascript\&logoColor=black)
 
-### 🧠 Languages
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+### Frameworks & Runtime
 
-### 🌐 Frontend
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge\&logo=nodedotjs\&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge\&logo=express\&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge\&logo=flask\&logoColor=white)
+![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge\&logo=spring\&logoColor=white)
 
-### 🔧 Backend & Frameworks
-![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
-![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
-![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+### Frontend
 
-### 🗄️ Database & Infra
-![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
-![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge\&logo=react\&logoColor=black)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge\&logo=vite\&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge\&logo=html5\&logoColor=white)
 
-### ⚙️ Tools
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white)
-![FFmpeg](https://shields.io/badge/FFmpeg-%23171717.svg?logo=ffmpeg&style=for-the-badge&labelColor=171717&logoColor=5cb85c)
+### DB & Tools
+
+![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge\&logo=sqlite\&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DD0031?style=for-the-badge\&logo=redis\&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-121011?style=for-the-badge\&logo=github\&logoColor=white)
+![FFmpeg](https://img.shields.io/badge/FFmpeg-171717?style=for-the-badge\&logo=ffmpeg\&logoColor=5cb85c)
+
+</div>
 
 ---
 
 ## 📊 GitHub Stats
 
-<!-- 메인 스탯 -->
-![](https://github-readme-stats.vercel.app/api?username=flyingsquirrel0419&include_all_commits=true&count_private=true&theme=github_dark&hide_border=true&cache_seconds=1&v=20260130)
-
-<!-- 연속 커밋 -->
-![](https://nirzak-streak-stats.vercel.app/?user=flyingsquirrel0419&theme=github-dark&hide_border=true&cache_seconds=1&v=20260130)
-
-<!-- 활동 그래프 -->
-![](https://github-readme-activity-graph.vercel.app/graph?username=flyingsquirrel0419&theme=github-dark&cache_seconds=1&v=20260130)
-
-<!-- 사용 언어 -->
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=flyingsquirrel0419&layout=compact&langs_count=6&theme=github_dark&hide_border=true&cache_seconds=1&v=20260130)
+<div align="center">
+  <img height="200em" src="https://github-readme-stats.vercel.app/api?username=flyingsquirrel0419&include_all_commits=true&count_private=true&theme=github_dark&hide_border=true" />
+  <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=flyingsquirrel0419&layout=compact&theme=github_dark&hide_border=true" />
+  <br />
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=flyingsquirrel0419&theme=github-dark" />
+</div>
 
 ---
 
-[![](https://visitcount.itsvg.in/api?id=flyingsquirrel0419&icon=0&color=0)](https://visitcount.itsvg.in)
+<div align="center">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:3B82F6,100:6EE7B7&height=120&section=footer" />
+</div>
+```
 
-<!-- Full Commit · Force Refresh · Full Vibe 🐿️ -->
