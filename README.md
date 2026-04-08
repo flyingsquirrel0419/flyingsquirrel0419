@@ -20,29 +20,6 @@
   </a>
 </div>
 
-## Profile Snapshot
-
-```ts
-const developer = {
-  name: "FlyingSquirrel",
-  location: "South Korea",
-  role: "Project-first developer",
-  focus: ["Bots", "Backend", "Automation", "Real-world products"],
-  currentMission: "Build software people can actually use every day"
-};
-```
-
-## What I Work On
-
-- Building practical products instead of throwaway experiments
-- Turning ideas into deployable tools and services
-- Improving developer workflows with automation and clean tooling
-- Learning by shipping real features and operating them continuously
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=flyingsquirrel0419&layout=compact&theme=transparent&hide_border=true&langs_count=6" alt="Top languages" />
-</div>
-
 ## Tech Stack
 
 <div align="center">
