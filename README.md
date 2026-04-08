@@ -2,7 +2,7 @@
   <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:6EE7B7,100:3B82F6&height=180&section=header&text=Hi%20there!%20I'm%20FlyingSquirrel%&fontSize=36&fontColor=fff&animation=twinkling&fontAlignY=32" />
 
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6EE7B7&center=true&vCenter=true&width=520&lines=%E2%9C%A8+Vibe+Coder;%F0%9F%8E%A7+Discord+Music+Bot+Developer;%F0%9F%92%BB+Fullstack+Explorer" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6EE7B7&center=true&vCenter=true&width=520&lines=%E2%9C%A8+Coder;%F0%9F%8E%A7+Discord+Music+Bot+Developer;%F0%9F%92%BB+Fullstack+Explorer" alt="Typing SVG" />
   </a>
 
   <br /><br />
