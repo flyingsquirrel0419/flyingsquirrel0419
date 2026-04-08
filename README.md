@@ -1,97 +1,131 @@
 <div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:6EE7B7,100:3B82F6&height=180&section=header&text=Hi%20there!%20I'm%20FlyingSquirrel%&fontSize=36&fontColor=fff&animation=twinkling&fontAlignY=32" />
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,45:1D4ED8,100:22C55E&height=220&section=header&text=FlyingSquirrel&fontSize=48&fontColor=F8FAFC&animation=fadeIn&fontAlignY=35&desc=Project-first%20developer%20profile&descAlignY=55&descSize=18" alt="header" />
+</div>
 
+<div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6EE7B7&center=true&vCenter=true&width=520&lines=%E2%9C%A8+Coder;%F0%9F%8E%A7+Discord+Music+Bot+Developer;%F0%9F%92%BB+Fullstack+Explorer" alt="Typing SVG" />
-  </a>
-
-  <br /><br />
-
-  <a href="https://github.com/flyingsquirrel0419">
-    <img src="https://img.shields.io/badge/GitHub-flyingsquirrel0419-181717?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-  <a href="mailto:flying_squirrel__@teamwicked.me">
-    <img src="https://img.shields.io/badge/Email-flying_squirrel__@teamwicked.me-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://instagram.com/flyingsquirrel0419">
-    <img src="https://img.shields.io/badge/Instagram-flyingsquirrel0419-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1200&color=22C55E&center=true&vCenter=true&width=780&lines=Building+real-world+projects+with+code;Shipping+Discord+bot+features+that+people+actually+use;Exploring+backend%2C+automation%2C+and+developer+tools" alt="Typing SVG" />
   </a>
 </div>
 
----
+<div align="center">
+  <a href="https://github.com/flyingsquirrel0419">
+    <img src="https://img.shields.io/badge/GitHub-flyingsquirrel0419-111827?style=for-the-badge&logo=github&logoColor=white" alt="GitHub badge" />
+  </a>
+  <a href="mailto:flying_squirrel__@teamwicked.me">
+    <img src="https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email badge" />
+  </a>
+  <a href="https://instagram.com/flyingsquirrel0419">
+    <img src="https://img.shields.io/badge/Instagram-@flyingsquirrel0419-E1306C?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram badge" />
+  </a>
+</div>
 
-## 🐿️ About Me
+## Featured Project
+
+<table>
+  <tr>
+    <td width="62%" valign="top">
+      <h3>Iodine</h3>
+      <p>A production Discord music bot built for real users, not just demos.</p>
+      <ul>
+        <li>Designed for practical server use with stable playback workflows</li>
+        <li>Focused on shipping features, refining UX, and operating in the real world</li>
+        <li>Represents how I like to build: useful software, fast iteration, and hands-on deployment</li>
+      </ul>
+      <p>
+        <img src="https://img.shields.io/badge/Focus-Production%20Project-16A34A?style=flat-square" alt="Production project badge" />
+        <img src="https://img.shields.io/badge/Type-Discord%20Bot-2563EB?style=flat-square" alt="Discord bot badge" />
+        <img src="https://img.shields.io/badge/Status-Actively%20Improving-0F172A?style=flat-square" alt="Status badge" />
+      </p>
+    </td>
+    <td width="38%" valign="top">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=flyingsquirrel0419&layout=compact&theme=transparent&hide_border=true&langs_count=6" alt="Top languages" />
+    </td>
+  </tr>
+</table>
+
+## Profile Snapshot
 
 ```ts
 const developer = {
-  name: "날다람쥐 (FlyingSquirrel)",
-  location: "South Korea 🇰🇷",
-  focus: "Vibe Coding & Real-world Projects",
-  project: "Discord Music Bot - Iodine 🎵"
+  name: "FlyingSquirrel",
+  location: "South Korea",
+  role: "Project-first developer",
+  focus: ["Bots", "Backend", "Automation", "Real-world products"],
+  currentMission: "Build software people can actually use every day"
 };
-````
+```
 
----
+## What I Work On
 
-## 🤖 Project
+- Building practical products instead of throwaway experiments
+- Turning ideas into deployable tools and services
+- Improving developer workflows with automation and clean tooling
+- Learning by shipping real features and operating them continuously
 
-### 🎵 Iodine (아이오딘)
-
-* Discord 음악 봇
-* 실서버 운영 중
-
----
-
-## 🛠️ Tech Stack
+## Tech Stack
 
 <div align="center">
 
 ### Languages
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge\&logo=typescript\&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge\&logo=javascript\&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=111827)
 
-### Frameworks & Runtime
+### Runtime and Frameworks
 
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge\&logo=nodedotjs\&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge\&logo=express\&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge\&logo=flask\&logoColor=white)
-![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge\&logo=spring\&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express-111827?style=for-the-badge&logo=express&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-111827?style=for-the-badge&logo=flask&logoColor=white)
+![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
 
-### Frontend
+### Frontend and Data
 
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge\&logo=react\&logoColor=black)
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge\&logo=vite\&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge\&logo=html5\&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=111827)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC2626?style=for-the-badge&logo=redis&logoColor=white)
 
-### DB & Tools
+### Tools
 
-![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge\&logo=sqlite\&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DD0031?style=for-the-badge\&logo=redis\&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-121011?style=for-the-badge\&logo=github\&logoColor=white)
-![FFmpeg](https://img.shields.io/badge/FFmpeg-171717?style=for-the-badge\&logo=ffmpeg\&logoColor=5cb85c)
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
+![FFmpeg](https://img.shields.io/badge/FFmpeg-171717?style=for-the-badge&logo=ffmpeg&logoColor=5CB85C)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 </div>
 
----
-
-## 📊 GitHub Stats
-
-<!-- 메인 스탯 -->
-![](https://github-readme-stats.vercel.app/api?username=flyingsquirrel0419&include_all_commits=true&count_private=true&theme=github_dark&hide_border=true&cache_seconds=1&v=20260130)
-
-<!-- 연속 커밋 -->
-![](https://nirzak-streak-stats.vercel.app/?user=flyingsquirrel0419&theme=github-dark&hide_border=true&cache_seconds=1&v=20260130)
-
-<!-- 활동 그래프 -->
-![](https://github-readme-activity-graph.vercel.app/graph?username=flyingsquirrel0419&theme=github-dark&cache_seconds=1&v=20260130)
-
-<!-- 사용 언어 -->
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=flyingsquirrel0419&layout=compact&langs_count=6&theme=github_dark&hide_border=true&cache_seconds=1&v=20260130)
----
+## Metrics and Activity
 
 <div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:3B82F6,100:6EE7B7&height=120&section=footer" />
+  <img width="100%" src="./github-metrics.svg" alt="GitHub metrics" />
 </div>
 
+<div align="center">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=flyingsquirrel0419&show_icons=true&include_all_commits=true&count_private=true&rank_icon=github&theme=transparent&hide_border=true" alt="GitHub stats" />
+  <img width="49%" src="https://nirzak-streak-stats.vercel.app/?user=flyingsquirrel0419&theme=transparent&hide_border=true" alt="GitHub streak" />
+</div>
+
+<div align="center">
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=flyingsquirrel0419&theme=github-dark&hide_border=true&radius=16" alt="Contribution graph" />
+</div>
+
+<div align="center">
+  <img width="100%" src="https://raw.githubusercontent.com/flyingsquirrel0419/flyingsquirrel0419/output/github-contribution-grid-snake-dark.svg" alt="Contribution snake animation" />
+</div>
+
+## Contact
+
+<div align="center">
+  <a href="mailto:flying_squirrel__@teamwicked.me">Email</a>
+  ·
+  <a href="https://github.com/flyingsquirrel0419">GitHub</a>
+  ·
+  <a href="https://instagram.com/flyingsquirrel0419">Instagram</a>
+</div>
+
+<br />
+
+<div align="center">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:22C55E,55:1D4ED8,100:0F172A&height=140&section=footer" alt="footer" />
+</div>
