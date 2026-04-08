@@ -78,20 +78,7 @@ const developer = {
 ## Metrics and Activity
 
 <div align="center">
-  <img width="100%" src="./github-metrics.svg" alt="GitHub metrics" />
-</div>
-
-<div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=flyingsquirrel0419&show_icons=true&include_all_commits=true&count_private=true&rank_icon=github&theme=transparent&hide_border=true" alt="GitHub stats" />
-  <img width="49%" src="https://nirzak-streak-stats.vercel.app/?user=flyingsquirrel0419&theme=transparent&hide_border=true" alt="GitHub streak" />
-</div>
-
-<div align="center">
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=flyingsquirrel0419&theme=github-dark&hide_border=true&radius=16" alt="Contribution graph" />
-</div>
-
-<div align="center">
-  <img width="100%" src="https://raw.githubusercontent.com/flyingsquirrel0419/flyingsquirrel0419/output/github-contribution-grid-snake-dark.svg" alt="Contribution snake animation" />
+  <img width="100%" src="https://raw.githubusercontent.com/flyingsquirrel0419/flyingsquirrel0419/main/github-metrics.svg" alt="GitHub metrics" />
 </div>
 
 ## Contact
