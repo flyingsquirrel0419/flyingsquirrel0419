@@ -20,30 +20,6 @@
   </a>
 </div>
 
-## Featured Project
-
-<table>
-  <tr>
-    <td width="62%" valign="top">
-      <h3>Iodine</h3>
-      <p>A production Discord music bot built for real users, not just demos.</p>
-      <ul>
-        <li>Designed for practical server use with stable playback workflows</li>
-        <li>Focused on shipping features, refining UX, and operating in the real world</li>
-        <li>Represents how I like to build: useful software, fast iteration, and hands-on deployment</li>
-      </ul>
-      <p>
-        <img src="https://img.shields.io/badge/Focus-Production%20Project-16A34A?style=flat-square" alt="Production project badge" />
-        <img src="https://img.shields.io/badge/Type-Discord%20Bot-2563EB?style=flat-square" alt="Discord bot badge" />
-        <img src="https://img.shields.io/badge/Status-Actively%20Improving-0F172A?style=flat-square" alt="Status badge" />
-      </p>
-    </td>
-    <td width="38%" valign="top">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=flyingsquirrel0419&layout=compact&theme=transparent&hide_border=true&langs_count=6" alt="Top languages" />
-    </td>
-  </tr>
-</table>
-
 ## Profile Snapshot
 
 ```ts
@@ -62,6 +38,10 @@ const developer = {
 - Turning ideas into deployable tools and services
 - Improving developer workflows with automation and clean tooling
 - Learning by shipping real features and operating them continuously
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=flyingsquirrel0419&layout=compact&theme=transparent&hide_border=true&langs_count=6" alt="Top languages" />
+</div>
 
 ## Tech Stack
 
