@@ -55,7 +55,7 @@
 ## Metrics and Activity
 
 <div align="center">
-  <img width="75%" src="https://raw.githubusercontent.com/flyingsquirrel0419/flyingsquirrel0419/main/github-metrics.svg" alt="GitHub metrics" />
+  <img width="100%" src="https://raw.githubusercontent.com/flyingsquirrel0419/flyingsquirrel0419/main/github-metrics.svg" alt="GitHub metrics" />
 </div>
 
 ## Contact
