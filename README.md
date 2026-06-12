@@ -58,6 +58,14 @@
   <img width="100%" src="https://raw.githubusercontent.com/flyingsquirrel0419/flyingsquirrel0419/main/github-metrics.svg" alt="GitHub metrics" />
 </div>
 
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/flyingsquirrel0419/flyingsquirrel0419/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/flyingsquirrel0419/flyingsquirrel0419/output/github-contribution-grid-snake.svg" />
+    <img alt="github-snake" src="https://raw.githubusercontent.com/flyingsquirrel0419/flyingsquirrel0419/output/github-contribution-grid-snake.svg" />
+  </picture>
+</div>
+
 ## Contact
 
 <div align="center">
